@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file alias="imagenGris">LamparaGris.PNG</file>
+        <file alias="imagenVerde">LamparaVerde.PNG</file>
+    </qresource>
+</RCC>
